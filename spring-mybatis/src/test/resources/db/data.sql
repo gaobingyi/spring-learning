@@ -1,0 +1,1 @@
+INSERT INTO `user` ( `id`, `username`, `password` ) VALUES ( 1, 'gaobingyi', '123456' );
